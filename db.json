@@ -5,7 +5,7 @@
         "name": "Chandra",
         "age": 25,
         "place": "Visakhapatnam",
-        "batch_name": "WEB-21",
+        "batchname": "WEB-21",
         "profession": "FSD"
       },
       {
@@ -13,7 +13,7 @@
         "name": "Nrupul",
         "age": 37,
         "place": "Vijayawada",
-        "batch_name": "WEB-18",
+        "batchname": "WEB-18",
         "profession": "FSD"
       }
     ]
